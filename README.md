@@ -2,8 +2,8 @@
 
 This analysis focuses on uncovering consumer preferences and market opportunities in Bangalore’s food delivery landscape using Zomato review data.
 
-<img width="400" height="900" alt="Screenshot 2025-07-12 190617" src="https://github.com/user-attachments/assets/df975627-959c-465a-a0bf-ed2451065bbe" />
-<img width="400" height="700" alt="Screenshot 2025-07-12 183823" src="https://github.com/user-attachments/assets/9eed3d6e-6a2a-4e6c-a721-fcfd24119add" />
+<img width="500" height="900" alt="Screenshot 2025-07-12 190617" src="https://github.com/user-attachments/assets/df975627-959c-465a-a0bf-ed2451065bbe" />
+<img width="415" height="900" alt="Screenshot 2025-07-12 183823" src="https://github.com/user-attachments/assets/9eed3d6e-6a2a-4e6c-a721-fcfd24119add" />
 <br>
     
 Business Objectives:
