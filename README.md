@@ -5,7 +5,12 @@ This analysis focuses on uncovering consumer preferences and market opportunitie
 <img width="350" height="300" alt="Screenshot 2025-07-12 190617" src="https://github.com/user-attachments/assets/df975627-959c-465a-a0bf-ed2451065bbe" />
 <img width="390" height="265" alt="Screenshot 2025-07-12 183823" src="https://github.com/user-attachments/assets/9eed3d6e-6a2a-4e6c-a721-fcfd24119add" />
 <br>
-    
+
+### Why Geospatial Analysis?
+Location-based insights help identify demand clusters, service gaps, and regional performance differences that traditional tables cannot reveal.
+
+---
+
 Business Objectives:
 * Understand what drives positive customer experiences.
 * Identify food trends and popular menu items.
@@ -16,7 +21,7 @@ Business Objectives:
 Key Business Insights:
 * Customer Preferences: Frequently mentioned items like chicken biryani, paneer butter masala, and fried rice indicate high demand for non-veg and North Indian cuisine.
 * Service Expectations: Phrases like “value for money”, “home delivery”, and “pocket friendly” highlight key drivers of customer satisfaction beyond food quality.
-* Location Strategy: Restaurant density is highest in central Bangalore, while outer areas show potential for new market entry due to lower competition.
+* Location Strategy: Restaurant density is highest in central Bangalore indicating High restaurant density clusters in metro regions, while service gaps were seen in emerging localities.
 * Sentiment Clarity Through Bigrams: Single-word analysis failed to capture sentiment effectively. Bi-gram analysis provided clearer insights into customer attitudes, especially around affordability and service quality.
 <br>
 
